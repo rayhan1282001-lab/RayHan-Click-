@@ -3,15 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RayHan'S Click</title>
+    <title>RayHan'S Click - Photo Gallery</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>My Photography Portfolio</h1>
+    <header>
+        <h1>RayHan'S Click</h1>
+        <p>Welcome to my photography gallery!</p>
+    </header>
     <div class="gallery">
-        <img src="photo1.jpg" alt="Photo 1">
-        <img src="photo2.jpg" alt="Photo 2">
-        <!-- আরও ছবি যোগ করুন -->
+        <!-- ছবিগুলো এখানে ডাইনামিক্যালি যোগ হবে -->
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
